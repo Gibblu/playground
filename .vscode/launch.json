@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "kotlin",
+            "request": "launch",
+            "name": "Kotlin Launch",
+            "projectRoot": "${workspaceFolder}",
+            "mainClass": "MainKt" // For a file named Main.kt with a top-level main()
+        }
+    ]
+}
